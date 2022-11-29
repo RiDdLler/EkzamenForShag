@@ -1,0 +1,544 @@
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.exe
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.deps.json
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.runtimeconfig.json
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.pdb
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.AssemblyReference.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfoInputs.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfo.cs
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CoreCompileInputs.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CopyComplete
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\refint\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.pdb
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.genruntimeconfig.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\ref\Exz.Alimzhan.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.exe
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.deps.json
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.runtimeconfig.json
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.pdb
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Core.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Identity.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Humanizer.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.CodeDom.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.AssemblyReference.cache
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfoInputs.cache
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfo.cs
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CoreCompileInputs.cache
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CopyComplete
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\refint\Exz.Alimzhan.dll
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.pdb
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.genruntimeconfig.cache
+D:\Mirvais\Game & TP\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\ref\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\refint\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.pdb
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.exe
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.deps.json
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.runtimeconfig.json
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.pdb
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.AssemblyReference.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfoInputs.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfo.cs
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CoreCompileInputs.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CopyComplete
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.genruntimeconfig.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\ado.net_ex\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\ref\Exz.Alimzhan.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.exe
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.deps.json
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.runtimeconfig.json
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.pdb
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Core.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Identity.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Humanizer.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.CodeDom.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.AssemblyReference.cache
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfoInputs.cache
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfo.cs
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CoreCompileInputs.cache
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CopyComplete
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\refint\Exz.Alimzhan.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.pdb
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.genruntimeconfig.cache
+D:\Mirvais\Game & TP\ado.net_ex\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\ref\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.exe
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.deps.json
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.runtimeconfig.json
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.pdb
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.AssemblyReference.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfoInputs.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfo.cs
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CoreCompileInputs.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CopyComplete
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\refint\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.pdb
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.genruntimeconfig.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\ref\Exz.Alimzhan.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.exe
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.deps.json
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.runtimeconfig.json
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.pdb
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Core.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Identity.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Humanizer.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.CodeDom.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.AssemblyReference.cache
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfoInputs.cache
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfo.cs
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CoreCompileInputs.cache
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CopyComplete
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\refint\Exz.Alimzhan.dll
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.pdb
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.genruntimeconfig.cache
+D:\Mirvais\Game & TP\ado.net_ex\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\ref\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.exe
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.deps.json
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.runtimeconfig.json
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.pdb
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.AssemblyReference.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfoInputs.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfo.cs
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CoreCompileInputs.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CopyComplete
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\refint\Exz.Alimzhan.dll
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.pdb
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.genruntimeconfig.cache
+C:\Users\Алга Казакстан\source\repos\ADO.NET\src\lessons\Ex final!\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\ref\Exz.Alimzhan.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.exe
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.deps.json
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.runtimeconfig.json
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Exz.Alimzhan.pdb
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.AssemblyInfo.cs
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.csproj.CopyComplete
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\refint\Exz.Alimzhan.dll
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.pdb
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\Exz.Alimzhan.genruntimeconfig.cache
+C:\Users\user\source\repos\Ex 1.3\Exz.Alimzhan\Exz.Alimzhan\obj\Debug\net7.0\ref\Exz.Alimzhan.dll
